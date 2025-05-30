@@ -1,7 +1,3 @@
-
-markdown
-Copy
-Edit
 # Emotion Detection of Text Using Machine Learning Models
 
 A machine learning project for detecting emotions from raw text, using natural language processing and popular classification algorithms.  

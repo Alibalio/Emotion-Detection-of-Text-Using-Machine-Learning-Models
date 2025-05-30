@@ -90,7 +90,7 @@ Edit
 ## 📬 Contact
 
 - **Author:** Alibalio
-- **Email:** davidalibalio5@gmail.com
+- **Email:** davidalibalio5@gmail.com.
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
